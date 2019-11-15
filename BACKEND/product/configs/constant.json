@@ -1,0 +1,16 @@
+{
+    "server": {
+        "PORT": 3000
+    },
+    "code" : {
+        "CODE_ERROR_CREATE" : 207,
+        "CODE_ERROR_METHOD": 405,
+        "CODE_ERROR_UNAUTHORIED_USER" : 401,
+        "CODE_ERROR_FORBIDDEN" : 403,
+        "CODE_ERROR_NOT_FOUND" : 404,
+        "CODE_ERROR_UPDATE" : 206,
+        "CODE_ERROR_VALIDATOR" : 422,
+        "CODE_ERROR_LOGIN_FAIL" : 203,
+        "CODE_SUCCESS" : 200
+    }
+}
